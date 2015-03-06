@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Rulers
 
 TODO: Write a gem description
@@ -30,7 +29,4 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
-=======
-# rulers
-Rebuilding Rails: Ruby-On-Rulers
->>>>>>> dddad140a55ee8b86892c62371b348dc85945828
+
